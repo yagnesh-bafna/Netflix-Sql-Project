@@ -1,0 +1,68 @@
+🎬 Netflix Data Analysis with SQL
+
+📊 This project dives into the **Netflix Movies & TV Shows dataset** (from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)) to uncover insights about Netflix’s content library. Using SQL, I explored trends based on **ratings, year of release, countries, durations, genres, and more**.
+
+---
+
+What is this project?
+
+This is a **hands-on SQL project** where I practiced solving **real business problems** using the Netflix dataset.
+It’s not just about queries — it’s about **thinking like a data analyst** and extracting meaningful insights.
+
+---
+
+## 🎯 Objectives
+
+1. Understand Netflix’s catalog distribution (Movies vs TV Shows).
+2. Identify content patterns (ratings, countries, genres, durations).
+3. Track historical trends (releases over the years, recent 5 years).
+4. Highlight key people (directors, actors) shaping Netflix’s content.
+5. Classify sensitive content (using keywords like *kill* and *violence*).
+
+---
+
+## 🧩 Problems Solved (15 SQL Queries)
+
+Here are the business problems I tackled:
+
+1. Count the number of Movies vs TV Shows.
+2. Find the most common rating for Movies and TV Shows.
+3. List all Movies released in 2020.
+4. Find the top 5 countries with the most content.
+5. Identify the longest movie.
+6. Find content added in the last 5 years.
+7. Find all content directed by *Rajiv Chilaka*.
+8. List all TV Shows with more than 5 seasons.
+9. Count the number of content items in each genre.
+10. Find each year and the average number of content releases by India (Top 5 years).
+11. List all Movies that are Documentaries.
+12. Find all content without a director.
+13. Find how many Movies actor *Salman Khan* appeared in over the last 10 years.
+14. Find the Top 10 actors who appeared most in Indian content.
+15. Categorize content as **Good/Bad** based on keywords (*kill*, *violence*).
+
+---
+
+## ⚙️ Tech Stack & Skills Used
+
+* **SQL**
+* Aggregations (`COUNT`, `GROUP BY`)
+* Window Functions (`RANK`)
+* String Functions (`STRING_TO_ARRAY`, `SPLIT_PART`)
+* Date Functions (`TO_DATE`, `INTERVAL`)
+* Conditional Logic (`CASE WHEN`)
+
+---
+
+## 🌟 Key Takeaways
+
+* Movies dominate Netflix’s catalog.
+* Ratings vary: Movies & TV Shows have different most-common ratings.
+* India and the US are among the top content-producing countries.
+* Sensitive keywords like *kill* and *violence* appear in a noticeable share of content.
+
+---
+
+💡 *This project gave me a strong understanding of how to turn raw data into actionable insights using SQL.*
+
+
