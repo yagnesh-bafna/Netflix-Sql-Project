@@ -1,12 +1,12 @@
 🎬 Netflix Data Analysis with SQL
 
-📊 This project dives into the **Netflix Movies & TV Shows dataset** (from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)) to uncover insights about Netflix’s content library. Using SQL, I explored trends based on **ratings, year of release, countries, durations, genres, and more**.
+📊 This project dives into the **Netflix Movies & TV Shows dataset** to uncover insights about Netflix’s content library. Using SQL, I explored trends based on **ratings, year of release, countries, durations, genres, and more**.
 
 ---
 
 What is this project?
 
-This is a **hands-on SQL project** where I practiced solving **real business problems** using the Netflix dataset.
+This is a hands-on SQL project, where I practiced solving real business problems using the Netflix dataset.
 It’s not just about queries — it’s about **thinking like a data analyst** and extracting meaningful insights.
 
 ---
